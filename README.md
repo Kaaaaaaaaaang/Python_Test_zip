@@ -1,5 +1,5 @@
 # Python_Test_zip
-2020 Python Project
+2020 Python Project - personality test collection
 
 **기획 의도**
 
